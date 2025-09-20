@@ -1,6 +1,6 @@
 # Mental Health Chatbot using Python  
 
-This project is part of my first assignment as a **Machine Learning Intern at Sync Interns**.  
+This project is part of my first assignment as a **Machine Learning Engineer**.  
 The chatbot is designed to provide conversational support and resources for individuals experiencing mental health challenges. It leverages **Natural Language Processing (NLP)** techniques to understand user inputs and generate empathetic, non-judgmental responses, fostering a safe space for users to share their thoughts and emotions.  
 
 ## Dataset  
